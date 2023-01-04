@@ -1,5 +1,5 @@
 # Sourcetree
-Sourcetree使用紀錄
+Sourcetree管理軟體
 
 
 ## 從Souretree重新下載版本檔案到本機
